@@ -1,12 +1,12 @@
-### Zac Flynn
+##Zac Flynn
+#Software Engineer
 
-## Software Engineer
+#Technical Projects
 
-## Technical Projects
+#Technical Skills
 
-## Technical Skills
+#Connect With Me
 
-##Connect With Me
 
 <!--
 **Zacharyflynn06/zacharyflynn06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
