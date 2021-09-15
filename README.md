@@ -3,7 +3,7 @@
 
 # Zac Flynn
 
-Software Engineer with experience in JS/React/Redux, Ruby/Rails, and CSS/HTML programming with a background in music theory and performance. Passionate and driven developer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems from over ten years of experience in the music industry. Applies a passion for problem-solving, and an ability to collaborate well in a team.![postgresql](https://user-images.githubusercontent.com/69942706/133498016-addbc473-bba7-4f42-abc7-3202631d8d06.png)
+Software Engineer with experience in JS/React/Redux, Ruby/Rails, and CSS/HTML programming with a background in music theory and performance. Passionate and driven developer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems from over ten years of experience in the music industry. Applies a passion for problem-solving, and an ability to collaborate well in a team.
 
 
 ## Technical Projects
@@ -49,6 +49,7 @@ Ruby on Rails-based web application for a fictional Yoga studio. Students can lo
 ![rails](https://user-images.githubusercontent.com/69942706/133496208-fd86c9af-a8d6-4675-ad6e-9d1aafeb1dcb.png)
 ![html](https://user-images.githubusercontent.com/69942706/133496280-95bab563-344b-477a-93a0-0931f292b331.png)
 ![css](https://user-images.githubusercontent.com/69942706/133496401-515389b4-2ba1-4e2a-9405-ad6bf0f2b694.png)
+![postgresql](https://user-images.githubusercontent.com/69942706/133498016-addbc473-bba7-4f42-abc7-3202631d8d06.png)
 
 
 ## Blog
