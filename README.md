@@ -5,6 +5,7 @@
 
 ## Technical Skills
 
+[![github](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)]
 ## Blog
 
 [![github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][1]
