@@ -12,9 +12,20 @@ Software Engineer with experience in JS/React/Redux, Ruby/Rails, and CSS/HTML pr
 [Frontend Repo](https://github.com/Zacharyflynn06/ee-frontend) |
 [Backend Repo](https://github.com/Zacharyflynn06/ee-backend)
 
+The official band website and online store of Colorado based rock band "Eminence Ensemble".
+* React/Redux frontend built using Redux Tool Kit, JavaScript (ES6), JSX, HTML, and CSS
+* Built a Rails API backend, utilizing the MVC design principles, Active Record, PostgreSQL, and Devise
+* Utilized JSON Web Tokens and localStorage to store encrypted user information client-side
+* Created using only functional components with hooks 
+* Employed client-side rendering to prioritize a quick user experience
+
+
 #### In The Shed
 [Frontend Repo](https://github.com/Zacharyflynn06/in-the-shed-frontend) |
 [Backend Repo](https://github.com/Zacharyflynn06/in-the-shed-backend)
+
+#### Flow
+[Repo](https://github.com/Zacharyflynn06/flow)
 
 ## Technical Skills
 ![javascript](https://user-images.githubusercontent.com/69942706/133495799-b708000a-9c76-4663-b9f9-6ccb1272de70.png)
