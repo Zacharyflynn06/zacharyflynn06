@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/69942706/133501901-53bc436b-ef8b-4d9b-ad4a-c919f49f073d.jpg)
+![Orange Ebb and Flow Abstract LinkedIn Banner (6)](https://user-images.githubusercontent.com/69942706/133508267-92889ce7-5e42-4294-97cf-ee0889cda961.png)
+
 
 Software Engineer with experience in JS/React/Redux, Ruby/Rails, and CSS/HTML programming with a background in music theory and performance. Passionate and driven developer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems from over ten years of experience in the music industry. Applies a passion for problem-solving, and an ability to collaborate well in a team.
 
