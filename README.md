@@ -4,15 +4,16 @@
 # Zac Flynn
 ### Software Engineer
 
-Passionate and driven software engineer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems from over ten years of experience in the music industry.
+Software Engineer with experience in JS/React/Redux, Ruby/Rails, and CSS/HTML programming with a background in music theory and performance. Passionate and driven developer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems from over ten years of experience in the music industry. Applies a passion for problem-solving, and an ability to collaborate well in a team.![postgresql](https://user-images.githubusercontent.com/69942706/133498016-addbc473-bba7-4f42-abc7-3202631d8d06.png)
+
 
 ## Technical Projects
 #### Eminence Ensemble Website
-[Frontend Repo](https://github.com/Zacharyflynn06/ee-frontend)
+[Frontend Repo](https://github.com/Zacharyflynn06/ee-frontend) |
 [Backend Repo](https://github.com/Zacharyflynn06/ee-backend)
 
 #### In The Shed
-[Frontend Repo](https://github.com/Zacharyflynn06/in-the-shed-frontend)
+[Frontend Repo](https://github.com/Zacharyflynn06/in-the-shed-frontend) |
 [Backend Repo](https://github.com/Zacharyflynn06/in-the-shed-backend)
 
 ## Technical Skills
