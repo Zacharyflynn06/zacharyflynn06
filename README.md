@@ -1,11 +1,11 @@
-##Zac Flynn
-#Software Engineer
+## Zac Flynn
+# Software Engineer
 
-#Technical Projects
+# Technical Projects
 
-#Technical Skills
+# Technical Skills
 
-#Connect With Me
+# Connect With Me
 
 
 <!--
