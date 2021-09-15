@@ -5,11 +5,17 @@
 
 ## Technical Skills
 
+## Blog
+
+[![github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][1]
+
 ## Connect With Me
 
-[![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+[![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 
-[1]: https://www.linkedin.com/in/zacflynn/
+
+[1]: https://zacharyflynn06.medium.com/
+[2]: https://www.linkedin.com/in/zacflynn/
 
 
 <!--
