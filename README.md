@@ -5,9 +5,9 @@
 Software Engineer
 
 ## Technical Projects
-###Eminence Ensemble Website
-[Eminence Ensemble Frontend](https://github.com/Zacharyflynn06/ee-frontend)
-[Eminence Ensemble Backend](https://github.com/Zacharyflynn06/ee-backend)
+### Eminence Ensemble Website
+[Frontend Repo](https://github.com/Zacharyflynn06/ee-frontend)
+[Backend Repo](https://github.com/Zacharyflynn06/ee-backend)
 
 ## Technical Skills
 ![javascript](https://user-images.githubusercontent.com/69942706/133495799-b708000a-9c76-4663-b9f9-6ccb1272de70.png)
