@@ -8,6 +8,7 @@
 ## Technical Skills
 ![javascript](https://user-images.githubusercontent.com/69942706/133495799-b708000a-9c76-4663-b9f9-6ccb1272de70.png)
 ![react](https://user-images.githubusercontent.com/69942706/133495964-5a736adb-5ca2-4c29-aaef-0b494c335cbb.png)
+![redux](https://user-images.githubusercontent.com/69942706/133496032-76aa744a-83b0-4969-99fa-6977c6eda594.png)
 
 
 ## Blog
