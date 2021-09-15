@@ -1,11 +1,15 @@
-## Zac Flynn
-# Software Engineer
+# Zac Flynn
+## Software Engineer
 
-# Technical Projects
+## Technical Projects
 
-# Technical Skills
+## Technical Skills
 
-# Connect With Me
+## Connect With Me
+
+[![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+
+[1]: https://www.linkedin.com/in/zacflynn/
 
 
 <!--
