@@ -1,5 +1,6 @@
 
 
+
 # Zac Flynn
 ## Software Engineer
 
@@ -9,6 +10,10 @@
 ![javascript](https://user-images.githubusercontent.com/69942706/133495799-b708000a-9c76-4663-b9f9-6ccb1272de70.png)
 ![react](https://user-images.githubusercontent.com/69942706/133495964-5a736adb-5ca2-4c29-aaef-0b494c335cbb.png)
 ![redux](https://user-images.githubusercontent.com/69942706/133496032-76aa744a-83b0-4969-99fa-6977c6eda594.png)
+![ruby](https://user-images.githubusercontent.com/69942706/133496153-c67705bc-8024-498d-bb57-12ba74a1e117.png)
+![rails](https://user-images.githubusercontent.com/69942706/133496208-fd86c9af-a8d6-4675-ad6e-9d1aafeb1dcb.png)
+![html](https://user-images.githubusercontent.com/69942706/133496280-95bab563-344b-477a-93a0-0931f292b331.png)
+![css](https://user-images.githubusercontent.com/69942706/133496401-515389b4-2ba1-4e2a-9405-ad6bf0f2b694.png)
 
 
 ## Blog
