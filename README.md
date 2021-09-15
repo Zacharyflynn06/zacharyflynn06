@@ -1,11 +1,11 @@
+
 # Zac Flynn
 ## Software Engineer
 
 ## Technical Projects
 
 ## Technical Skills
-
-![javascript](https://user-images.githubusercontent.com/69942706/133495719-779350b0-f194-42ea-a3f9-1746df7d246f.png)
+![javascript](https://user-images.githubusercontent.com/69942706/133495799-b708000a-9c76-4663-b9f9-6ccb1272de70.png)
 
 
 ## Blog
