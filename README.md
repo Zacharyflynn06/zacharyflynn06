@@ -4,6 +4,8 @@
 # Zac Flynn
 ### Software Engineer
 
+Passionate and driven software engineer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems from over ten years of experience in the music industry.
+
 ## Technical Projects
 #### Eminence Ensemble Website
 [Frontend Repo](https://github.com/Zacharyflynn06/ee-frontend)
