@@ -2,7 +2,7 @@
 
 
 # Zac Flynn
-## Software Engineer
+Software Engineer
 
 ## Technical Projects
 
