@@ -1,4 +1,4 @@
-![Orange Ebb and Flow Abstract LinkedIn Banner (6)](https://user-images.githubusercontent.com/69942706/133508267-92889ce7-5e42-4294-97cf-ee0889cda961.png)
+![Orange Ebb and Flow Abstract LinkedIn Banner (9)](https://user-images.githubusercontent.com/69942706/135143303-9f4c317a-aa6e-4f0f-a2c2-ffbdd4417a78.png)
 
 
 Hi, I'm Zac! I am a software engineer with a background in music theory and performance.  I'm trying to transition to a remote position in software engineering to turn my passion for coding into a career that will fuel my ambition and allow me to build awesome things and help solve complicated problems! My strengths in abstract language, creative logic come from over ten years of experience in the music industry.
