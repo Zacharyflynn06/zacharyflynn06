@@ -19,7 +19,8 @@ The official band website and online store of Colorado based rock band "Eminence
 
 #### In The Shed
 [Frontend Repo](https://github.com/Zacharyflynn06/in-the-shed-frontend) |
-[Backend Repo](https://github.com/Zacharyflynn06/in-the-shed-backend)
+[Backend Repo](https://github.com/Zacharyflynn06/in-the-shed-backend) |
+[Demo Video](https://www.youtube.com/watch?v=Fwrj1l510mg)
 
 Vanilla JavaScript practice tool for Musicians built without any external packages. 
 
