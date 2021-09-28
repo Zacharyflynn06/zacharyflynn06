@@ -7,7 +7,8 @@ Hi, I'm Zac! I am a software engineer with a background in music theory and perf
 ## Technical Projects
 #### Eminence Ensemble Website
 [Frontend Repo](https://github.com/Zacharyflynn06/ee-frontend) |
-[Backend Repo](https://github.com/Zacharyflynn06/ee-backend)
+[Backend Repo](https://github.com/Zacharyflynn06/ee-backend) |
+[Demo Video](https://www.youtube.com/watch?v=Fwrj1l510mg)
 
 The official band website and online store of Colorado based rock band "Eminence Ensemble".
 * React/Redux frontend built using Redux Tool Kit, JavaScript (ES6), JSX, HTML, and CSS
@@ -19,8 +20,7 @@ The official band website and online store of Colorado based rock band "Eminence
 
 #### In The Shed
 [Frontend Repo](https://github.com/Zacharyflynn06/in-the-shed-frontend) |
-[Backend Repo](https://github.com/Zacharyflynn06/in-the-shed-backend) |
-[Demo Video](https://www.youtube.com/watch?v=Fwrj1l510mg)
+[Backend Repo](https://github.com/Zacharyflynn06/in-the-shed-backend) 
 
 Vanilla JavaScript practice tool for Musicians built without any external packages. 
 
