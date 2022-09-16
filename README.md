@@ -1,7 +1,7 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/blob/bedee7e5ee1f072536f1e089f5bbd8dd19af310f/Orange%20Ebb%20and%20Flow%20Abstract%20LinkedIn%20Banner.png)
 
 
-Hi, I'm Zac! I am a software engineer at Lively, working mostly in frontend on Svelte and Sveltkit with Tailwind.  I am learning more about web3, NFT's and smart contracts!
+Hi, I'm Zac! I am a software engineer at Lively, working mostly in frontend on Svelte and Sveltkit with Tailwind.  I am learning more about web3, NFT's and smart contracts!  I graduated from the Flatiron School's Software Engineering program in August, 2021.
 
 
 ## Professional Experience
@@ -49,6 +49,7 @@ Ruby on Rails-based web application for a fictional Yoga studio. Students can lo
 
 ## Technical Skills
 ![svelte](https://github.com/Zacharyflynn06/zacharyflynn06/blob/0533892308f75ad43b3f7fda9bf0230c4e6275b0/icons8-svelte-32.png)
+![tailwind](https://github.com/Zacharyflynn06/zacharyflynn06/blob/5842b50f23dc0182e481b1d9f9718c220cf60428/icons8-tailwind-css-32.png)
 ![javascript](https://user-images.githubusercontent.com/69942706/133495799-b708000a-9c76-4663-b9f9-6ccb1272de70.png)
 ![react](https://user-images.githubusercontent.com/69942706/133495964-5a736adb-5ca2-4c29-aaef-0b494c335cbb.png)
 ![redux](https://user-images.githubusercontent.com/69942706/133496032-76aa744a-83b0-4969-99fa-6977c6eda594.png)
