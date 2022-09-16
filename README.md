@@ -1,7 +1,12 @@
 
 
 
-Hi, I'm Zac! I am a software engineer with a background in music theory and performance.  I'm trying to transition to a remote position in software engineering to turn my passion for coding into a career that will fuel my ambition and allow me to build awesome things and help solve complicated problems! My strengths in abstract language, creative logic come from over ten years of experience in the music industry.
+Hi, I'm Zac! I am a software engineer at Lively, working mostly in frontend on Svelte and Sveltkit with Tailwind.  I am learning more about web3, NFT's and smart contracts!
+
+
+##Professional Experience
+#### 1 Year at Lively - Front End Software Engineer using Svelte and SvelteKit with Tailwind
+[Live website] (https://golive.ly/)
 
 
 ## Technical Projects
