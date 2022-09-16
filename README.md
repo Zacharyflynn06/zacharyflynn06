@@ -4,7 +4,7 @@
 Hi, I'm Zac! I am a software engineer at Lively, working mostly in frontend on Svelte and Sveltkit with Tailwind.  I am learning more about web3, NFT's and smart contracts!
 
 
-##Professional Experience
+## Professional Experience
 #### 1 Year at Lively - Front End Software Engineer using Svelte and SvelteKit with Tailwind
 [Live website](https://golive.ly/)
 
