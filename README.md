@@ -5,8 +5,12 @@ Hi, I'm Zac! I am a software engineer at Lively, working mostly in frontend on S
 
 
 ## Professional Experience
-#### 1 Year at Lively - Front End Software Engineer using Svelte and SvelteKit with Tailwind
-[Live website](https://golive.ly/)
+#### 1 Year at Lively - Software Engineer
+[Lively](https://www.golive.ly/)
+
+##### Whitelabel Web3 Projects with Lively
+[Umphreys.xyz](https://www.umphreys.xyz)
+[Sunsquabi.xyz](https://www.sunsquabi.xyz)
 
 
 ## Technical Projects
