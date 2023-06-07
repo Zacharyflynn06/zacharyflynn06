@@ -5,8 +5,8 @@ Hi, I'm Zac! I am a software engineer at Lively, working mostly in frontend on S
 
 
 ## Professional Experience
-#### 1 Year at Lively - Software Engineer
-[Lively](https://www.golive.ly/)
+#### 2 Years at Lively - Full Stack Software Engineer
+[Lively](https://www.golive.ly/next)
 
 ##### Custom Websites with Lively
 [Umphreys.xyz](https://www.umphreys.xyz) |
