@@ -1,7 +1,7 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
 
 
-Hi, I'm Zac! I am a software engineer at Lively, working mostly in frontend on Svelte and Sveltkit with Tailwind.  I am learning more about web3, NFT's and smart contracts!  I graduated from the Flatiron School's Software Engineering program in August, 2021.
+Hi, I'm Zac! I am a software engineer and musician.
 
 
 ## Professional Experience
