@@ -1,7 +1,7 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
 
 
-Hi, I'm Zac! I am a software engineer and musician.
+Software Engineer with 3+ years of experience in JavaScript, TypeScript, Svelte/SvelteKit, React/Redux, Python, Ruby, CSS, and HTML programming. Passionate and driven software engineer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems alongside 10+ years of experience in the music industry. Applies a passion for problem-solving, a strong eye for UI/UX development, and a commitment to lifelong learning.
 
 
 ## Professional Experience
