@@ -32,24 +32,13 @@ The official band website and online store of Colorado based rock band "Eminence
 [Backend Repo](https://github.com/Zacharyflynn06/in-the-shed-backend) |
 [Demo Video](https://www.youtube.com/watch?v=SbLW314kUj0)
 
-Vanilla JavaScript practice tool for Musicians built without any external packages. 
+Vanilla JavaScript practice tool for Musicians built from scratch. 
 
 * Allows musicians to build a loopable song form, and practice playing over the chords with playback
 * Built a self-correcting timer using Time.now() for adjustable tempo playback
 * Developed a clean user experience by creating a drag and drop for chord placement
 * Recorded over 200 chord samples and a playback system
 * Devised a component to loop the song’s form
-
-#### Flow
-[Repo](https://github.com/Zacharyflynn06/flow) |
-[Demo Video](https://www.youtube.com/watch?v=y2ppYkd9VUk)
-
-Ruby on Rails-based web application for a fictional Yoga studio. Students can log in, view classes, and comment on classes.  Teachers can manage classes with full CRUD functionality.  Admins can log in to moderate any functionality.
-
-* Created an aliased user model, to allow one login with three types of users: teacher, student, and admin.
-* Utilized server-side rendering using Rails.
-* Developed without using Rails Scaffold.
-* Incorporated OAuth to let users log in using Google or Apple credentials.
 
 ## Technical Skills
 ![svelte](https://github.com/Zacharyflynn06/zacharyflynn06/blob/0533892308f75ad43b3f7fda9bf0230c4e6275b0/icons8-svelte-32.png)
