@@ -22,7 +22,7 @@ Full Staclk Software Engineer
 + Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
 NFT player, Diamond Smart Contracts, Streaming Platform, and custom web3 marketplaces for musicians and bands including:
 
-[Umphreys.xyz] (https://www.umphreys.xyz/) | [Newmastersounds.xyz](https://www.newmastersounds.xyz/)
+[Umphreys.xyz](https://www.umphreys.xyz/) | [Newmastersounds.xyz](https://www.newmastersounds.xyz/)
 
 2018 - Present  
 Freelance Software Engineer  
