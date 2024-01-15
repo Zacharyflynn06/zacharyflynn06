@@ -1,17 +1,38 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
 
+3+ years of professional experience in JavaScript/TypeScript, Svelte/SvelteKit, React/Redux, CSS, Tailwind, and HTML programming. Passionate and driven engineer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems. Applies a passion for problem-solving, a strong eye for UI/UX development, and a commitment to lifelong learning.
 
-Software Engineer with 3+ years of experience in JavaScript, TypeScript, Svelte/SvelteKit, React/Redux, Python, Ruby, CSS, and HTML programming. Passionate and driven software engineer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems alongside 10+ years of experience in the music industry. Applies a passion for problem-solving, a strong eye for UI/UX development, and a commitment to lifelong learning.
+Jun, 2023 - Present
+Vyblee
+Senior Frontend Software Engineer
+ ● Responsible for building and maintaining the entire frontend codebase using Svelte/SvelteKit, TypeScript, Tailwind, CSS, HTML, and deploying via Vercel and AWS.
+● Developed a fully featured custom checkout process using Stripe.
+● Built a web application that allows influencers to create their own personalized food brand
+and website in minutes
+● Created fully dynamic Linktree-style white-labeled storefronts for end users to order food for
+delivery and pickup.
+● Delivered entire frontend from the ground up to minimum viable product in under 3 months
 
+Sep, 2021 - May, 2023 
+Lively
+Full Staclk Software Engineer 
+● Created captivating and intuitive UI/UX for a multimedia streaming platform and music NFT marketplace using JavaScript, TypeScript, Svelte/SvelteKit, Tailwind, Graqhql, Python, Flask, DynamoDB, and Solidity
+● Collaborated with a passionate and small startup team to deliver high-quality products and services, with the aspirational mission of creating alternative revenue sources for musicians
+● Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
+NFT player, Diamond Smart Contracts, Streaming Platform, and custom web3 marketplaces for musicians and bands including: Umphreys.xyz ; Sunsquabi.xyz ; Newmastersounds.xyz
 
-## Professional Experience
-#### 2 Years at Lively - Full Stack Software Engineer
-[Lively](https://www.golive.ly/next)
+2018 - Present
+Freelance Software Engineer
+● Clients include: Eminence Ensemble; Cash Buyers Colorado; Sigma3 Group;
 
-##### Custom Websites with Lively
-[Umphreys.xyz](https://www.umphreys.xyz) |
-[Sunsquabi.xyz](https://www.sunsquabi.xyz)
+Eminence Ensemble 2013-Present Founder | Bassist
+● Managed logistics and operations for a company of 8
+● Original member of a nationally recognized touring band.
+● Responsible for managing, planning, and performing in over 1000 live concerts.
 
+EDUCATION
+Flatiron School 2020 Certificate in Full Stack Software Engineering - JavaScript and Ruby on Rails Program Specialization
+University of Colorado at Boulder 2013 Bachelor’s in Music Performance
 
 ## Technical Projects
 #### Eminence Ensemble Website
