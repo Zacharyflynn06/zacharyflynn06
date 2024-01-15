@@ -2,37 +2,37 @@
 
 3+ years of professional experience in JavaScript/TypeScript, Svelte/SvelteKit, React/Redux, CSS, Tailwind, and HTML programming. Passionate and driven engineer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems. Applies a passion for problem-solving, a strong eye for UI/UX development, and a commitment to lifelong learning.
 
-Jun, 2023 - Present
-Vyblee
-Senior Frontend Software Engineer
- ● Responsible for building and maintaining the entire frontend codebase using Svelte/SvelteKit, TypeScript, Tailwind, CSS, HTML, and deploying via Vercel and AWS.
-● Developed a fully featured custom checkout process using Stripe.
-● Built a web application that allows influencers to create their own personalized food brand
+Jun, 2023 - Present  
+Vyblee  
+Senior Frontend Software Engineer  
+1. Responsible for building and maintaining the entire frontend codebase using Svelte/SvelteKit, TypeScript, Tailwind, CSS, HTML, and deploying via Vercel and AWS.
+2. Developed a fully featured custom checkout process using Stripe.
+3. Built a web application that allows influencers to create their own personalized food brand
 and website in minutes
-● Created fully dynamic Linktree-style white-labeled storefronts for end users to order food for
+4. Created fully dynamic Linktree-style white-labeled storefronts for end users to order food for
 delivery and pickup.
-● Delivered entire frontend from the ground up to minimum viable product in under 3 months
+5. Delivered entire frontend from the ground up to minimum viable product in under 3 months
 
-Sep, 2021 - May, 2023 
-Lively
-Full Staclk Software Engineer 
-● Created captivating and intuitive UI/UX for a multimedia streaming platform and music NFT marketplace using JavaScript, TypeScript, Svelte/SvelteKit, Tailwind, Graqhql, Python, Flask, DynamoDB, and Solidity
-● Collaborated with a passionate and small startup team to deliver high-quality products and services, with the aspirational mission of creating alternative revenue sources for musicians
-● Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
+Sep, 2021 - May, 2023  
+Lively  
+Full Staclk Software Engineer   
+1. Created captivating and intuitive UI/UX for a multimedia streaming platform and music NFT marketplace using JavaScript, TypeScript, Svelte/SvelteKit, Tailwind, Graqhql, Python, Flask, DynamoDB, and Solidity
+2. Collaborated with a passionate and small startup team to deliver high-quality products and services, with the aspirational mission of creating alternative revenue sources for musicians
+3. Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
 NFT player, Diamond Smart Contracts, Streaming Platform, and custom web3 marketplaces for musicians and bands including: Umphreys.xyz ; Sunsquabi.xyz ; Newmastersounds.xyz
 
-2018 - Present
-Freelance Software Engineer
-● Clients include: Eminence Ensemble; Cash Buyers Colorado; Sigma3 Group;
+2018 - Present  
+Freelance Software Engineer  
+1. Clients include: Eminence Ensemble; Cash Buyers Colorado; Sigma3 Group;
 
 Eminence Ensemble 2013-Present Founder | Bassist
-● Managed logistics and operations for a company of 8
-● Original member of a nationally recognized touring band.
-● Responsible for managing, planning, and performing in over 1000 live concerts.
+1. Managed logistics and operations for a company of 8
+2. Original member of a nationally recognized touring band.
+3. Responsible for managing, planning, and performing in over 1000 live concerts.
 
-EDUCATION
-Flatiron School 2020 Certificate in Full Stack Software Engineering - JavaScript and Ruby on Rails Program Specialization
-University of Colorado at Boulder 2013 Bachelor’s in Music Performance
+EDUCATION  
+Flatiron School 2020 Certificate in Full Stack Software Engineering - JavaScript and Ruby on Rails Program Specialization  
+University of Colorado at Boulder 2013 Bachelor’s in Music Performance  
 
 ## Technical Projects
 #### Eminence Ensemble Website
