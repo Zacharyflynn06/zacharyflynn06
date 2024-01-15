@@ -5,30 +5,31 @@
 Jun, 2023 - Present  
 Vyblee  
 Senior Frontend Software Engineer  
-1. Responsible for building and maintaining the entire frontend codebase using Svelte/SvelteKit, TypeScript, Tailwind, CSS, HTML, and deploying via Vercel and AWS.
-2. Developed a fully featured custom checkout process using Stripe.
-3. Built a web application that allows influencers to create their own personalized food brand
++ Responsible for building and maintaining the entire frontend codebase using Svelte/SvelteKit, TypeScript, Tailwind, CSS, HTML, and deploying via Vercel and AWS.
++ Developed a fully featured custom checkout process using Stripe.
++ Introduced a design system using Figma designs
++ Built a web application that allows influencers to create their own personalized food brand
 and website in minutes
-4. Created fully dynamic Linktree-style white-labeled storefronts for end users to order food for
++ Created fully dynamic Linktree-style white-labeled storefronts for end users to order food for
 delivery and pickup.
-5. Delivered entire frontend from the ground up to minimum viable product in under 3 months
++ Delivered entire front-end from nothing up to minimum viable product in under 3 months
 
 Sep, 2021 - May, 2023  
 Lively  
 Full Staclk Software Engineer   
-1. Created captivating and intuitive UI/UX for a multimedia streaming platform and music NFT marketplace using JavaScript, TypeScript, Svelte/SvelteKit, Tailwind, Graqhql, Python, Flask, DynamoDB, and Solidity
-2. Collaborated with a passionate and small startup team to deliver high-quality products and services, with the aspirational mission of creating alternative revenue sources for musicians
-3. Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
++ Created captivating and intuitive UI/UX for a multimedia streaming platform and music NFT marketplace using JavaScript, TypeScript, Svelte/SvelteKit, Tailwind, Graqhql, Python, Flask, DynamoDB, and Solidity
++ Collaborated with a passionate and small startup team to deliver high-quality products and services, with the aspirational mission of creating alternative revenue sources for musicians
++ Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
 NFT player, Diamond Smart Contracts, Streaming Platform, and custom web3 marketplaces for musicians and bands including: Umphreys.xyz ; Sunsquabi.xyz ; Newmastersounds.xyz
 
 2018 - Present  
 Freelance Software Engineer  
-1. Clients include: Eminence Ensemble; Cash Buyers Colorado; Sigma3 Group;
++ Clients include: Eminence Ensemble; Cash Buyers Colorado; Sigma3 Group;
 
 Eminence Ensemble 2013-Present Founder | Bassist
-1. Managed logistics and operations for a company of 8
-2. Original member of a nationally recognized touring band.
-3. Responsible for managing, planning, and performing in over 1000 live concerts.
++ Managed logistics and operations for a company of 8
++ Original member of a nationally recognized touring band.
++ Responsible for managing, planning, and performing in over 800 live concerts.
 
 EDUCATION  
 Flatiron School 2020 Certificate in Full Stack Software Engineering - JavaScript and Ruby on Rails Program Specialization  
