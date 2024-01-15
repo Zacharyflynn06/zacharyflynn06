@@ -20,7 +20,9 @@ Full Staclk Software Engineer
 + Created captivating and intuitive UI/UX for a multimedia streaming platform and music NFT marketplace using JavaScript, TypeScript, Svelte/SvelteKit, Tailwind, Graqhql, Python, Flask, DynamoDB, and Solidity
 + Collaborated with a passionate and small startup team to deliver high-quality products and services, with the aspirational mission of creating alternative revenue sources for musicians
 + Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
-NFT player, Diamond Smart Contracts, Streaming Platform, and custom web3 marketplaces for musicians and bands including: [Umphreys.xyz] (Umphreys.xyz) ; Sunsquabi.xyz ; Newmastersounds.xyz
+NFT player, Diamond Smart Contracts, Streaming Platform, and custom web3 marketplaces for musicians and bands including:
+
+[Umphreys.xyz] (https://www.umphreys.xyz/) | [Newmastersounds.xyz](https://www.newmastersounds.xyz/)
 
 2018 - Present  
 Freelance Software Engineer  
