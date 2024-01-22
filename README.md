@@ -39,6 +39,7 @@ University of Colorado at Boulder 2013 Bachelor’s in Music Performance
 
 ## Technical Projects
 #### Eminence Ensemble Website
+[Website](https://www.eminenceensemble.com) |
 [Frontend Repo](https://github.com/Zacharyflynn06/ee-frontend) |
 [Backend Repo](https://github.com/Zacharyflynn06/ee-backend) |
 [Demo Video](https://www.youtube.com/watch?v=Fwrj1l510mg)
