@@ -12,11 +12,11 @@ Senior Frontend Software Engineer
 and website in minutes
 + Created fully dynamic Linktree-style white-labeled storefronts for end users to order food for
 delivery and pickup.
-+ Delivered entire front-end from nothing up to minimum viable product in under 3 months
++ Delivered entire front-end from nothing up to the minimum viable product in under 3 months
 
 Sep, 2021 - May, 2023  
 Lively  
-Full Staclk Software Engineer   
+Full Stack Software Engineer   
 + Created captivating and intuitive UI/UX for a multimedia streaming platform and music NFT marketplace using JavaScript, TypeScript, Svelte/SvelteKit, Tailwind, Graqhql, Python, Flask, DynamoDB, and Solidity
 + Collaborated with a passionate and small startup team to deliver high-quality products and services, with the aspirational mission of creating alternative revenue sources for musicians
 + Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
@@ -44,10 +44,10 @@ University of Colorado at Boulder 2013 Bachelor’s in Music Performance
 [Backend Repo](https://github.com/Zacharyflynn06/ee-backend) |
 [Demo Video](https://www.youtube.com/watch?v=Fwrj1l510mg)
 
-The official band website and online store of Colorado based rock band "Eminence Ensemble".
+The official band website and online store of Colorado-based rock band "Eminence Ensemble".
 * React/Redux frontend built using Redux Tool Kit, JavaScript (ES6), JSX, HTML, and CSS
 * Built a Rails API backend, utilizing the MVC design principles, Active Record, PostgreSQL, and Devise
-* Utilized JSON Web Tokens and localStorage to store encrypted user information client-side
+* Utilized JSON Web Tokens and local storage to store encrypted user information client-side
 * Created using only functional components with hooks 
 * Employed client-side rendering to prioritize a quick user experience
 
