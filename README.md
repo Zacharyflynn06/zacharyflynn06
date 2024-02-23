@@ -2,6 +2,11 @@
 
 3+ years of professional experience in JavaScript/TypeScript, Svelte/SvelteKit, React/Redux, CSS, Tailwind, and HTML programming. Passionate and driven engineer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems. Applies a passion for problem-solving, a strong eye for UI/UX development, and a commitment to lifelong learning.
 
+
+2020 - Present  
+Freelance Software Engineer  
++ Clients include Seel.io, Eminence Ensemble, Cash Buyers Colorado, Sigma3 Group
+
 Jun, 2023 - Present  
 Vyblee  
 Senior Frontend Software Engineer  
@@ -23,10 +28,6 @@ Full Stack Software Engineer
 NFT player, Diamond Smart Contracts, Streaming Platform, and custom web3 marketplaces for musicians and bands including:
 
 [Umphreys.xyz](https://www.umphreys.xyz/) | [Newmastersounds.xyz](https://www.newmastersounds.xyz/)
-
-2018 - Present  
-Freelance Software Engineer  
-+ Clients include: Eminence Ensemble; Cash Buyers Colorado; Sigma3 Group;
 
 Eminence Ensemble 2013-Present Founder | Bassist
 + Managed logistics and operations for a company of 8
