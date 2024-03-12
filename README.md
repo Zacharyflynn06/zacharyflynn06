@@ -1,70 +1,41 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
 
-3+ years of professional experience in JavaScript/TypeScript, Svelte/SvelteKit, React/Redux, CSS, Tailwind, and HTML programming. Passionate and driven engineer accustomed to working with abstract language, creative logic, and delivering innovative solutions to complicated problems. Applies a passion for problem-solving, a strong eye for UI/UX development, and a commitment to lifelong learning.
+Dynamic and skilled Software Engineer with over 3 years of experience specializing in front-end development and passionate about creating innovative web applications. Proven track record in leveraging JavaScript/TypeScript, Svelte/SvelteKit, and React/Redux to deliver user-centric solutions. Adept at driving projects from concept to deployment with a focus on UI/UX design and a commitment to lifelong learning and problem-solving.
 
+## Professional Experience
 
-2020 - Present  
-Freelance Software Engineer  
-+ Clients include Seel.io, Eminence Ensemble, Cash Buyers Colorado, Sigma3 Group
+### Senior Frontend Software Engineer  
+Jun, 2023 - Jan, 2024  
+Vyblee - [Vyblee.com](https://www.vyblee.com/)
 
-Jun, 2023 - Present  
-Vyblee  
-Senior Frontend Software Engineer  
-+ Responsible for building and maintaining the entire frontend codebase using Svelte/SvelteKit, TypeScript, Tailwind, CSS, HTML, and deploying via Vercel and AWS.
-+ Developed a fully featured custom checkout process using Stripe.
-+ Introduced a design system using Figma designs
-+ Built a web application that allows influencers to create their own personalized food brand
-and website in minutes
-+ Created fully dynamic Linktree-style white-labeled storefronts for end users to order food for
-delivery and pickup.
-+ Delivered entire front-end from nothing up to the minimum viable product in under 3 months
++ Led the development and maintenance of the frontend architecture using Svelte/SvelteKit, Tailwind, Vercel, and AWS.
++ Designed and implemented a custom, feature-rich checkout process integrating Stripe, streamlining payment transactions.
++ Developed an innovative web application that empowers influencers to launch personalized food brands and webstores swiftly.
++ Engineered dynamic, Linktree-style white-labeled storefronts for seamless food ordering, contributing to enhanced user experience.
 
+### Full Stack Software Engineer   
 Sep, 2021 - May, 2023  
-Lively  
-Full Stack Software Engineer   
-+ Created captivating and intuitive UI/UX for a multimedia streaming platform and music NFT marketplace using JavaScript, TypeScript, Svelte/SvelteKit, Tailwind, Graqhql, Python, Flask, DynamoDB, and Solidity
-+ Collaborated with a passionate and small startup team to deliver high-quality products and services, with the aspirational mission of creating alternative revenue sources for musicians
-+ Built frontend and Web3 tools for wallet login, NFT redemption, gapless audio player, music
-NFT player, Diamond Smart Contracts, Streaming Platform, and custom web3 marketplaces for musicians and bands including:
+Lively 
++ Crafted intuitive UI/UX for a multimedia streaming platform and music NFT marketplace, utilizing JavaScript, Svelte/SvelteKit, and Tailwind.
++ Collaborated closely with startup team to deliver high-quality digital products, focusing on creating alternative revenue streams for musicians.
++ Built and integrated frontend Web3 tools for a seamless user experience, including wallet login, NFT redemption, and a custom audio player.
 
-[Umphreys.xyz](https://www.umphreys.xyz/) | [Newmastersounds.xyz](https://www.newmastersounds.xyz/)
+### Freelance Full Stack Software Engineer
+2020 - Present  
+[Eminenceensemble.com](https://www.eminenceensemble.com/), [sigma3.io](https://www.sigma3.io/)
++ Developed and deployed e-commerce and consulting websites for various clients, including Eminence Ensemble and Sigma3 Group, employing a range of JavaScript frameworks.
+  
+## Leadership Experience
 
-Eminence Ensemble 2013-Present Founder | Bassist
-+ Managed logistics and operations for a company of 8
+### Founder | Bassist | CTO
+Eminence Ensemble 2013-Present 
++ Managed logistics and operations for an 8-member touring band, demonstrating strong leadership and organizational skills.
 + Original member of a nationally recognized touring band.
-+ Responsible for managing, planning, and performing in over 800 live concerts.
++ Responsible for managing, planning, and performing in over 1000 live concerts.
 
-EDUCATION  
-Flatiron School 2020 Certificate in Full Stack Software Engineering - JavaScript and Ruby on Rails Program Specialization  
-University of Colorado at Boulder 2013 Bachelor’s in Music Performance  
-
-## Technical Projects
-#### Eminence Ensemble Website
-[Website](https://www.eminenceensemble.com) |
-[Frontend Repo](https://github.com/Zacharyflynn06/ee-frontend) |
-[Backend Repo](https://github.com/Zacharyflynn06/ee-backend) |
-[Demo Video](https://www.youtube.com/watch?v=Fwrj1l510mg)
-
-The official band website and online store of Colorado-based rock band "Eminence Ensemble".
-* React/Redux frontend built using Redux Tool Kit, JavaScript (ES6), JSX, HTML, and CSS
-* Built a Rails API backend, utilizing the MVC design principles, Active Record, PostgreSQL, and Devise
-* Utilized JSON Web Tokens and local storage to store encrypted user information client-side
-* Created using only functional components with hooks 
-* Employed client-side rendering to prioritize a quick user experience
-
-
-#### In The Shed
-[Frontend Repo](https://github.com/Zacharyflynn06/in-the-shed-frontend) |
-[Backend Repo](https://github.com/Zacharyflynn06/in-the-shed-backend) |
-[Demo Video](https://www.youtube.com/watch?v=SbLW314kUj0)
-
-Vanilla JavaScript practice tool for Musicians built from scratch. 
-
-* Allows musicians to build a loopable song form, and practice playing over the chords with playback
-* Built a self-correcting timer using Time.now() for adjustable tempo playback
-* Developed a clean user experience by creating a drag and drop for chord placement
-* Recorded over 200 chord samples and a playback system
-* Devised a component to loop the song’s form
+## EDUCATION  
+Flatiron School 2020 - Certificate in Full Stack Software Engineering - JavaScript and Ruby on Rails Program Specialization  
+University of Colorado at Boulder 2013 - Bachelor’s in Music Performance  
 
 ## Technical Skills
 ![svelte](https://github.com/Zacharyflynn06/zacharyflynn06/blob/0533892308f75ad43b3f7fda9bf0230c4e6275b0/icons8-svelte-32.png)
@@ -87,22 +58,6 @@ Vanilla JavaScript practice tool for Musicians built from scratch.
 
 [![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 
-
 [1]: https://zacharyflynn06.medium.com/
 [2]: https://www.linkedin.com/in/zacflynn/
 
-
-<!--
-**Zacharyflynn06/zacharyflynn06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
