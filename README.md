@@ -15,7 +15,7 @@ Vyblee - [Vyblee.com](https://www.vyblee.com/)
 
 ### Full Stack Software Engineer   
 Sep, 2021 - May, 2023  
-Lively 
+Lively - [Lively](https://www.golive.ly/next)
 + Crafted intuitive UI/UX for a multimedia streaming platform and music NFT marketplace, utilizing JavaScript, Svelte/SvelteKit, and Tailwind.
 + Collaborated closely with startup team to deliver high-quality digital products, focusing on creating alternative revenue streams for musicians.
 + Built and integrated frontend Web3 tools for a seamless user experience, including wallet login, NFT redemption, and a custom audio player.
