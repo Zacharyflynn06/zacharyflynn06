@@ -15,14 +15,14 @@ Vyblee - [Vyblee.com](https://www.vyblee.com/)
 
 ### Full Stack Software Engineer   
 Sep, 2021 - May, 2023  
-Lively - [Lively](https://www.golive.ly/next)
+Lively - [Lively](https://www.golive.ly/next) [Umphreys.xyz](https://www.umphreys.xyz)
 + Crafted intuitive UI/UX for a multimedia streaming platform and music NFT marketplace, utilizing JavaScript, Svelte/SvelteKit, and Tailwind.
 + Collaborated closely with startup team to deliver high-quality digital products, focusing on creating alternative revenue streams for musicians.
 + Built and integrated frontend Web3 tools for a seamless user experience, including wallet login, NFT redemption, and a custom audio player.
 
 ### Freelance Full Stack Software Engineer
 2020 - Present  
-[Eminenceensemble.com](https://www.eminenceensemble.com/), [sigma3.io](https://www.sigma3.io/)
+[Eminenceensemble.com](https://www.eminenceensemble.com/)
 + Developed and deployed e-commerce and consulting websites for various clients, including Eminence Ensemble and Sigma3 Group, employing a range of JavaScript frameworks.
   
 ## Leadership Experience
