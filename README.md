@@ -4,6 +4,13 @@ Dynamic and skilled Software Engineer with over 3 years of experience specializi
 
 ## Professional Experience
 
+### Senior Frontend Software Engineer  				      
+Feb 2024 -  Present
+Seel - [seeldeals.com](https://www.seeldeals.com)
++ Designed, developed, and maintained frontend architecture using Svelte/SvelteKit, Tailwind, GraphQL, and AWS.
++ Built a comprehensive full-stack Svelte application to empower VC funds with AI and ML tools for precise investment portfolio risk assessment.
+
+
 ### Senior Frontend Software Engineer  
 Jun, 2023 - Jan, 2024  
 Vyblee - [Vyblee.com](https://www.vyblee.com/)
