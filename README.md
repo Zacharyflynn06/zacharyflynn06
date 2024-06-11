@@ -1,25 +1,24 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
 ## Professional Experience
 
-### Senior Frontend Software Engineer  				      
+### Senior Frontend Software Engineer - Seel - [seeldeals.com](https://www.seeldeals.com)
 Feb 2024 -  Present
-Seel - [seeldeals.com](https://www.seeldeals.com)
+
 + Designed, developed, and maintained frontend architecture using Svelte/SvelteKit, Tailwind, GraphQL, and AWS.
 + Built a comprehensive full-stack Svelte application to empower VC funds with AI and ML tools for precise investment portfolio risk assessment.
 
 
-### Senior Frontend Software Engineer  
+### Senior Frontend Software Engineer - Vyblee - [Vyblee.com](https://www.vyblee.com/)
 Jun, 2023 - Jan, 2024  
-Vyblee - [Vyblee.com](https://www.vyblee.com/)
 
 + Led the development and maintenance of the frontend architecture using Svelte/SvelteKit, Tailwind, Vercel, and AWS.
 + Designed and implemented a custom, feature-rich checkout process integrating Stripe, streamlining payment transactions.
 + Developed an innovative web application that empowers influencers to launch personalized food brands and webstores swiftly.
 + Engineered dynamic, Linktree-style white-labeled storefronts for seamless food ordering, contributing to enhanced user experience.
 
-### Full Stack Software Engineer   
+### Full Stack Software Engineer - Lively - [Lively](https://www.golive.ly/next) [Umphreys.xyz](https://www.umphreys.xyz)
+
 Sep, 2021 - May, 2023  
-Lively - [Lively](https://www.golive.ly/next) [Umphreys.xyz](https://www.umphreys.xyz)
 + Crafted intuitive UI/UX for a multimedia streaming platform and music NFT marketplace, utilizing JavaScript, Svelte/SvelteKit, and Tailwind.
 + Collaborated closely with startup team to deliver high-quality digital products, focusing on creating alternative revenue streams for musicians.
 + Built and integrated frontend Web3 tools for a seamless user experience, including wallet login, NFT redemption, and a custom audio player.
