@@ -16,7 +16,7 @@ Jun, 2023 - Jan, 2024
 + Developed an innovative web application that empowers influencers to launch personalized food brands and webstores swiftly.
 + Engineered dynamic, Linktree-style white-labeled storefronts for seamless food ordering, contributing to enhanced user experience.
 
-### Full Stack Software Engineer - Lively - [Lively](https://www.golive.ly/next) [Umphreys.xyz](https://www.umphreys.xyz)
+### Full Stack Software Engineer - Lively - [Lively](https://www.golive.ly/next) , [Umphreys.xyz](https://www.umphreys.xyz)
 
 Sep, 2021 - May, 2023  
 + Crafted intuitive UI/UX for a multimedia streaming platform and music NFT marketplace, utilizing JavaScript, Svelte/SvelteKit, and Tailwind.
