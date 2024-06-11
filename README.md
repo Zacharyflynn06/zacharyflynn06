@@ -1,7 +1,4 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
-
-Dynamic and skilled Software Engineer with over 3 years of experience specializing in front-end development and passionate about creating innovative web applications. Proven track record in leveraging JavaScript/TypeScript, Svelte/SvelteKit, and React/Redux to deliver user-centric solutions. Adept at driving projects from concept to deployment with a focus on UI/UX design and a commitment to lifelong learning and problem-solving.
-
 ## Professional Experience
 
 ### Senior Frontend Software Engineer  				      
