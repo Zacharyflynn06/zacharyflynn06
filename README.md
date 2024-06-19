@@ -1,22 +1,22 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
 ## Professional Experience
-### Senior Frontend Software Engineer - Seel - [seeldeals.com](https://www.seeldeals.com)
-Feb 2024 -  Present
+### Senior Frontend Software Engineer - Seel 
+[seeldeals.com](https://www.seeldeals.com)
 *Generative AI powered risk assessment toolset for venture capital firms*
 + Built a multipart file uploader using FilePond, allowing users to upload pitch decks to be analyzed by large learning models, and then chat with the pitch to assess the company's investment viability.
 + Developed a custom user authentication flow, using AWS Cognito, and server-side rendering, resulting in an effortless and secure user journey.
 + Integrated GraphQL into the project by defining a robust schema with type definitions and resolvers, establishing efficient data-fetching strategies, resulting in enhanced data querying and reduced network overhead.
 
-### Senior Frontend Software Engineer - Vyblee - [Vyblee.com](https://www.vyblee.com/)
-Jun, 2023 - Jan, 2024  
+### Senior Frontend Software Engineer - Vyblee
+[Vyblee.com](https://www.vyblee.com/)
 *A customizable food delivery storefront generator*
 + Constructed a feature-rich cart and checkout process, integrating Stripe for payment processing, facilitating a painless shopping experience for end users.
 + Created a website and storefront generator, using customizable themes, allowing users to create their own restaurant delivery brand in minutes..
 + Designed and implemented authentication and onboarding forms using full-stack SvelteKit, resulting in effortless creator onboarding.
 
-### Full Stack Software Engineer - Lively - [Lively](https://www.golive.ly/next) , [Umphreys.xyz](https://www.umphreys.xyz)
-Sep, 2021 - May, 2023  
+### Full Stack Software Engineer - Lively 
 *A multimedia streaming platform and music NFT marketplaces*
+[Lively](https://www.golive.ly/next) , [Umphreys.xyz](https://www.umphreys.xyz)
 + Designed and implemented custom storefronts for musicians using SvelteKit and GraphQL, to independently release recordings in the form of music NFTs.
 + Built a custom digital live streaming ‘venue’, using Mux and TypeScript, for over 200 artists, and creators to stream live performances, generating alternative revenue sources for artists.
 + Collaborated closely with a small startup team to deliver high-quality digital products, focusing on creating alternative revenue streams for musicians.
@@ -27,10 +27,10 @@ Sep, 2021 - May, 2023
 + Developed and deployed e-commerce and consulting websites for various clients, employing a range of JavaScript frameworks.
   
 ## EDUCATION  
-Flatiron School | Online 	     
+***Flatiron School*** | Online 	     
 Full-Time,  Full Stack Software Engineering Bootcamp
 
-University of Colorado | Boulder, Colorado	  
+***University of Colorado*** | Boulder, Colorado	  
 Bachelor of Music (Performance)
 
 ## Technical Skills
