@@ -1,44 +1,37 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
 ## Professional Experience
-
 ### Senior Frontend Software Engineer - Seel - [seeldeals.com](https://www.seeldeals.com)
 Feb 2024 -  Present
-
-+ Designed, developed, and maintained frontend architecture using Svelte/SvelteKit, Tailwind, GraphQL, and AWS.
-+ Built a comprehensive full-stack Svelte application to empower VC funds with AI and ML tools for precise investment portfolio risk assessment.
-
+*Generative AI powered risk assessment toolset for venture capital firms*
++ Built a multipart file uploader using FilePond, allowing users to upload pitch decks to be analyzed by large learning models, and then chat with the pitch to assess the company's investment viability.
++ Developed a custom user authentication flow, using AWS Cognito, and server-side rendering, resulting in an effortless and secure user journey.
++ Integrated GraphQL into the project by defining a robust schema with type definitions and resolvers, establishing efficient data-fetching strategies, resulting in enhanced data querying and reduced network overhead.
 
 ### Senior Frontend Software Engineer - Vyblee - [Vyblee.com](https://www.vyblee.com/)
 Jun, 2023 - Jan, 2024  
-
-+ Led the development and maintenance of the frontend architecture using Svelte/SvelteKit, Tailwind, Vercel, and AWS.
-+ Designed and implemented a custom, feature-rich checkout process integrating Stripe, streamlining payment transactions.
-+ Developed an innovative web application that empowers influencers to launch personalized food brands and webstores swiftly.
-+ Engineered dynamic, Linktree-style white-labeled storefronts for seamless food ordering, contributing to enhanced user experience.
+*A customizable food delivery storefront generator*
++ Constructed a feature-rich cart and checkout process, integrating Stripe for payment processing, facilitating a painless shopping experience for end users.
++ Created a website and storefront generator, using customizable themes, allowing users to create their own restaurant delivery brand in minutes..
++ Designed and implemented authentication and onboarding forms using full-stack SvelteKit, resulting in effortless creator onboarding.
 
 ### Full Stack Software Engineer - Lively - [Lively](https://www.golive.ly/next) , [Umphreys.xyz](https://www.umphreys.xyz)
-
 Sep, 2021 - May, 2023  
-+ Crafted intuitive UI/UX for a multimedia streaming platform and music NFT marketplace, utilizing JavaScript, Svelte/SvelteKit, and Tailwind.
-+ Collaborated closely with startup team to deliver high-quality digital products, focusing on creating alternative revenue streams for musicians.
-+ Built and integrated frontend Web3 tools for a seamless user experience, including wallet login, NFT redemption, and a custom audio player.
+*A multimedia streaming platform and music NFT marketplaces*
++ Designed and implemented custom storefronts for musicians using SvelteKit and GraphQL, to independently release recordings in the form of music NFTs.
++ Built a custom digital live streaming ‘venue’, using Mux and TypeScript, for over 200 artists, and creators to stream live performances, generating alternative revenue sources for artists.
++ Collaborated closely with a small startup team to deliver high-quality digital products, focusing on creating alternative revenue streams for musicians.
++ Using Tailwind and SvBuilt and integrated frontend Web3 tools including wallet login, NFT redemption, and a custom audio player for a striking user interface and easy user experience
 
 ### Freelance Full Stack Software Engineer
-2020 - Present  
 [Eminenceensemble.com](https://www.eminenceensemble.com/)
-+ Developed and deployed e-commerce and consulting websites for various clients, including Eminence Ensemble and Sigma3 Group, employing a range of JavaScript frameworks.
++ Developed and deployed e-commerce and consulting websites for various clients, employing a range of JavaScript frameworks.
   
-## Leadership Experience
-
-### Founder | Bassist | CTO
-Eminence Ensemble 2013-Present 
-+ Managed logistics and operations for an 8-member touring band, demonstrating strong leadership and organizational skills.
-+ Original member of a nationally recognized touring band.
-+ Responsible for managing, planning, and performing in over 1000 live concerts.
-
 ## EDUCATION  
-Flatiron School 2020 - Certificate in Full Stack Software Engineering - JavaScript and Ruby on Rails Program Specialization  
-University of Colorado at Boulder 2013 - Bachelor’s in Music Performance  
+Flatiron School | Online 	     
+Full-Time,  Full Stack Software Engineering Bootcamp
+
+University of Colorado | Boulder, Colorado	  
+Bachelor of Music (Performance)
 
 ## Technical Skills
 ![svelte](https://github.com/Zacharyflynn06/zacharyflynn06/blob/0533892308f75ad43b3f7fda9bf0230c4e6275b0/icons8-svelte-32.png)
