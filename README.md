@@ -2,21 +2,24 @@
 ## Professional Experience
 ### Senior Frontend Software Engineer - Seel 
 [seeldeals.com](https://www.seeldeals.com)
+
 *Generative AI powered risk assessment toolset for venture capital firms*
 + Built a multipart file uploader using FilePond, allowing users to upload pitch decks to be analyzed by large learning models, and then chat with the pitch to assess the company's investment viability.
 + Developed a custom user authentication flow, using AWS Cognito, and server-side rendering, resulting in an effortless and secure user journey.
 + Integrated GraphQL into the project by defining a robust schema with type definitions and resolvers, establishing efficient data-fetching strategies, resulting in enhanced data querying and reduced network overhead.
 
 ### Senior Frontend Software Engineer - Vyblee
-[Vyblee.com](https://www.vyblee.com/)
+[Marketing Site](https://www.vyblee.com/), [Example site](https://www.vyblee.com/doans-sushi-rolls),
+
 *A customizable food delivery storefront generator*
 + Constructed a feature-rich cart and checkout process, integrating Stripe for payment processing, facilitating a painless shopping experience for end users.
 + Created a website and storefront generator, using customizable themes, allowing users to create their own restaurant delivery brand in minutes..
 + Designed and implemented authentication and onboarding forms using full-stack SvelteKit, resulting in effortless creator onboarding.
 
 ### Full Stack Software Engineer - Lively 
-*A multimedia streaming platform and music NFT marketplaces*
 [Lively](https://www.golive.ly/next) , [Umphreys.xyz](https://www.umphreys.xyz)
+
+*A multimedia streaming platform and music NFT marketplaces*
 + Designed and implemented custom storefronts for musicians using SvelteKit and GraphQL, to independently release recordings in the form of music NFTs.
 + Built a custom digital live streaming ‘venue’, using Mux and TypeScript, for over 200 artists, and creators to stream live performances, generating alternative revenue sources for artists.
 + Collaborated closely with a small startup team to deliver high-quality digital products, focusing on creating alternative revenue streams for musicians.
