@@ -1,5 +1,23 @@
 ![](https://github.com/Zacharyflynn06/zacharyflynn06/assets/69942706/df30386f-6beb-4efe-abbf-c24a0760f6b5)
 ## Professional Experience
+
+
+### Senior Full Stack Software Engineer - CodePilot
+[codepilot.com](https://www.codepilot.com)
+
+*Agency specializing in modern web applications and custom software solutions*
++ Built and deployed full-stack applications using Ruby on Rails, HTMX, SvelteKit, and various other
+frameworks, ensuring scalable and performant architectures.
+
++ Developed an AI-powered algorithmic Bitcoin trading platform, optimizing trade execution and maximizing
+profitability through automated strategies.
+
++ Implemented PWA capabilities and offline-first experiences, improving user accessibility.
+
++ Worked with clients across various industries, delivering customized solutions tailored to business needs.
+
++ Leveraged CI/CD pipelines for efficient deployment and streamlined development workflows.
+
 ### Senior Frontend Software Engineer - Seel 
 [seeldeals.com](https://www.seeldeals.com)
 
